@@ -1,0 +1,13 @@
+Description:
+
+Transition Salon Management Project is a web based application which helps user to book appointment from anywhere at anytime.
+This Saoln management system facilitates effective scheduling of appointments for clients into different-different salons. Also, check the availability of employees from whom they want to take service and schedule an appointment with customers accordingly.
+
+Scope:
+Transition Salon Management is a web application. The main objective of this web application is to provide different salon services at one platform.
+
+Modules:
+1) Authentication
+2) Service Provider Management
+3) Appointment Scheduling Management
+4) Commercial Management
